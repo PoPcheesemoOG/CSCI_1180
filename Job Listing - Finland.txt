@@ -1,0 +1,41 @@
+OP-Financial Group OY - Java Developer Trainee:
+Qualifications:
+ÿ- Technology-wise you have an interest in Java, Spring Boot, and/or the Spring Framework.
+ÿ- Experience with container technologies such as Docker and/or Kubernetes is considered as a plus.
+ÿ- We also hope that you communicate fluently in English. Finnish skills are an advantage, but not mandatory.
+Qualifications I meet:
+ÿ- I know Java
+ÿ- I am fluent in English and Finnish
+Submissions needed:
+ÿ- Resume/ CV
+ÿ- Cover Letter
+ÿ- Personal info
+
+Insta Advance Oy - Java Developer for Finnish Defense Forces:
+Qualifications:
+ÿ- Experience with software development and back end development, especially in Java.
+ÿ- An IT-degree would be preferrable 
+ÿ- Fluent in reading and writing Finnish
+Qualifications I meet:
+ÿ- I know Java 
+ÿ- I am fluent in Finnish
+Submissions needed:
+ÿ- CV
+ÿ- Personal info
+- Driver's Licenseÿ
+Gofore - Java Developer:
+Qualifications:
+ÿ- Experience with Java-development, or Spring/Spring Boot.
+ÿ- Ability to communicate with non-technical people.
+ÿ- Fluent in English, Finnish is a bonus.
+
+Qualifications I meet:
+ÿ- I have experience with Java.
+ÿ- I am able to communicate with non-technical people.
+ÿ- I am fluent in English and Finnish.
+
+Submissions needed:
+ÿ- CV
+ÿ- Personal info
+
+
